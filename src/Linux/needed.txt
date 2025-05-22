@@ -1,0 +1,5 @@
+Установите следующие модули:
+pip install subprocess
+pip install colorama
+pip install pyserial
+pip install argparse
